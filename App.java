@@ -6,6 +6,7 @@ public class GreetingProgram {
         Scanner scanner = new Scanner(System.in);
 
         // Prompt the user to enter their name
+	System.out.print("Jai Shri Ram!")
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
